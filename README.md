@@ -2,7 +2,7 @@
 
 ### Install ###
 ```
-meteor add snamoah:meteor-craftyjs
+$ meteor add snamoah:meteor-craftyjs
 ```
 
 ### Documentation ###
